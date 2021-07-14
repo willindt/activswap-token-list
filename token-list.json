@@ -121,7 +121,7 @@
         {
             "name": "Bankroll Token",
             "symbol": "BNKR",
-            "address": "0x74472E7D35395A6b5add427EEcB7F4B62AD2b071",
+            "address": "0x8caeea9c7ebb8840ee4b49d10542b99cec6ffbc6",
             "decimals": 6,
             "chainId": 11111,
             "logoURI": "https://coin.top/production/logo/TNo59Khpq46FGf4sD7XSWYFNfYfbc8CqNK.png"
