@@ -14,7 +14,16 @@
         "activ",
         "activdefi"
     ],
-    "tokens": [{
+    "tokens": [
+        {
+            "name": "ActivEightCoin",
+            "symbol": "ACTIV",
+            "address": "0xd9a2669faa82b1dd7f9e3f9b8ca7b4200cc33d42",
+            "decimals": 8,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/upload/logo/TVoxBVmFuBM7dsRnfi1V8v1iupv4uyPifN.jpeg"
+        },
+        {
             "name": "EFT",
             "symbol": "EFT",
             "address": "0x42a19406f1e8176925bb5403510a42fc49c71a42",
@@ -41,7 +50,7 @@
         {
             "name": "Tether USD",
             "symbol": "USDT",
-            "address": "0xa614f803b6fd780986a42c78ec9c7f77e6ded13c",
+            "address": "0xa614f803B6FD780986A42c78Ec9c7f77e6DeD13C",
             "decimals": 6,
             "chainId": 11111,
             "logoURI": "https://coin.top/production/logo/usdtlogo.png"
@@ -111,9 +120,9 @@
             "logoURI": "https://coin.top/production/upload/logo/TNBrVEzuVYbNbGF2ua3ivSX5Y5V9N4xhax.png"
         },
         {
-            "name": "JUST Stablecoin",
+            "name": "Just USD Stablecoin",
             "symbol": "USDJ",
-            "address": "0x834295921a488d9d42b4b3021ed1a3c39fb0f03e",
+            "address": "0x834295921A488D9d42b4b3021ED1a3C39fB0f03e",
             "decimals": 18,
             "chainId": 11111,
             "logoURI": "https://coin.top/production/logo/usdj.png"
