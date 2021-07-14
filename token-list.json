@@ -1,0 +1,153 @@
+{
+    "name": "ActivSwap Tokens",
+    "timestamp": "2021-07-14T20:00:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png",
+    "keywords": [
+        "activeightcoin",
+        "activswap",
+        "activ",
+        "activdefi"
+    ],
+    "tokens": [{
+            "name": "EFT",
+            "symbol": "EFT",
+            "address": "0x42a19406f1e8176925bb5403510a42fc49c71a42",
+            "decimals": 8,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/logo/TG3XANY34mpabHM2DNc5ajhjMJVUQU741Y.png"
+        },
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "address": "0x84716914C0fDf7110A44030d04D0C4923504D9CC",
+            "decimals": 8,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/logo/TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9.png"
+        },
+        {
+            "name": "Centric CASH",
+            "symbol": "CNS",
+            "address": "0x7C503A569a8E62210bdCe6b3e733272e154d08ab",
+            "decimals": 8,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/upload/logo/TMJWuBDvwvcm6QUWXDaC6GqTyq3FgEmWEt.png"
+        },
+        {
+            "name": "TRONbetDice",
+            "symbol": "DICE",
+            "address": "0x6cE0632A762689a207b9CCE915e93Aa9596816CA",
+            "decimals": 6,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/logo/TKttnV3FSY1iEoAwB4N52WK2DxdV94KpSd.jpg"
+        },
+        {
+            "name": "Ethereum",
+            "symbol": "ETH",
+            "address": "0x53908308f4AA220FB10d778B5D1B34489cd6eDfc",
+            "decimals": 18,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/logo/THb4CqiFdwNHsWsQCs4JhzwjMWys4aqCbF.png"
+        },
+        {
+            "name": "Just Token",
+            "symbol": "JST",
+            "address": "0x18FD0626DAF3Af02389AEf3ED87dB9C33F638ffa",
+            "decimals": 18,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/logo/just_icon.png"
+        },
+        {
+            "name": "Klever",
+            "symbol": "KLV",
+            "address": "0xD8b8089856ced3038601cbeB1e3f765cABC12a41",
+            "decimals": 6,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/upload/logo/TVj7RNVHy6thbM7BWdSe9G6gXwKhjhdNZS.png"
+        },
+        {
+            "name": "TRONbetLive",
+            "symbol": "LIVE",
+            "address": "0xD829659F0F7661f29F12F07a5Be33C13b6c9dD59",
+            "decimals": 6,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/upload/logo/TVgAYofpQku5G4zenXnvxhbZxpzzrk8WVK.png"
+        },
+        {
+            "name": "SUN",
+            "symbol": "SUN",
+            "address": "0x6b5151320359Ec18b08607c70a3b7439Af626aa3",
+            "decimals": 18,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
+        },
+        {
+            "name": "TofuDeFi Token",
+            "symbol": "TOFU",
+            "address": "0xc25753642A59CdD8344fFe2e49bD112BFAD26BD3",
+            "decimals": 6,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/upload/logo/TTgnhmov3ezeUGxnfDdjvDt4WhNXDUD3bT.png"
+        },
+        {
+            "name": "Just USD Stablecoin",
+            "symbol": "USDJ",
+            "address": "0x834295921A488D9d42b4b3021ED1a3C39fB0f03e",
+            "decimals": 18,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/logo/usdj.png"
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "address": "0xa614f803B6FD780986A42c78Ec9c7f77e6DeD13C",
+            "decimals": 6,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/logo/usdtlogo.png"
+        },
+        {
+            "name": "Wrapped BTT",
+            "symbol": "WBTT",
+            "address": "0x6A6337aE47A09AeA0BBd4FaeB23cA94349c7b774",
+            "decimals": 6,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/logo/TKfjV9RNKJJCqPvBtK8L7Knykh7DNWvnYt.png"
+        },
+        {
+            "name": "WINkLink",
+            "symbol": "WIN",
+            "address": "0x74472E7D35395A6b5add427EEcB7F4B62AD2b071",
+            "decimals": 6,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg"
+        },
+        {
+            "name": "Wrapped TRX",
+            "address": "0x891cdb91d149f23B1a45D9c5Ca78a88d0cB44C18",
+            "symbol": "WTRX",
+            "decimals": 6,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
+        },
+        {
+            "name": "DemoToken",
+            "address": "0x42C142500ff7068f326c01A8F1B3cd8ea7D9377f",
+            "symbol": "DTKN",
+            "chainId": 201910292,
+            "decimals": 6
+        },
+        {
+            "name": "Wrapped Tron",
+            "address": "0x8f44113A985076431b77f6078f0929f949cB8836",
+            "symbol": "WTRX",
+            "decimals": 6,
+            "chainId": 201910292,
+            "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
+        }
+    ]
+}
