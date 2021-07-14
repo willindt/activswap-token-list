@@ -161,7 +161,7 @@
         {
             "name": "HuobiToken",
             "symbol": "HT",
-            "address": "0x3dfe637b2b9ae4190a458b5f3efc1969afe27819",
+            "address": "0x2c036253e0c053188c621b81b7cd40a99b828400",
             "decimals": 18,
             "chainId": 11111,
             "logoURI": "https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
@@ -177,7 +177,7 @@
         {
             "name": "Bridge Token",
             "symbol": "BRG",
-            "address": "0x3dfe637b2b9ae4190a458b5f3efc1969afe27819",
+            "address": "0x62463f45bc6592057977a891d6614aab93eaf73e",
             "decimals": 6,
             "chainId": 11111,
             "logoURI": "https://coin.top/production/upload/logo/TJvqNiWUN2v2NBG12UhfV7WSvReJkRP3VC.png"
