@@ -14,8 +14,7 @@
         "activ",
         "activdefi"
     ],
-    "tokens": [
-        {
+    "tokens": [{
             "name": "ActivEightCoin",
             "symbol": "ACTIV",
             "address": "0xd9a2669faa82b1dd7f9e3f9b8ca7b4200cc33d42",
@@ -190,6 +189,14 @@
             "decimals": 6,
             "chainId": 11111,
             "logoURI": "https://coin.top/production/upload/logo/TJvqNiWUN2v2NBG12UhfV7WSvReJkRP3VC.png"
+        },
+        {
+            "name": "Wrapped Tron",
+            "address": "0x8f44113A985076431b77f6078f0929f949cB8836",
+            "symbol": "WTRX",
+            "decimals": 6,
+            "chainId": 201910292,
+            "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
         }
     ]
 }
