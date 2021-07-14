@@ -176,11 +176,11 @@
             "logoURI": "https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
         },
         {
-            "name": "Wrapped Tron",
-            "address": "0x8f44113A985076431b77f6078f0929f949cB8836",
+            "name": "Wrapped TRX",
+            "address": "0x891cdb91d149f23B1a45D9c5Ca78a88d0cB44C18",
             "symbol": "WTRX",
             "decimals": 6,
-            "chainId": 201910292,
+            "chainId": 11111,
             "logoURI": "https://coin.top/production/upload/logo/TNUC9Qb1rRpS5CbWLmNMxXBjyFoydXjWFR.png"
         },
         {
