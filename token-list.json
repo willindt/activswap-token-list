@@ -33,7 +33,7 @@
         {
             "name": "LUME Token",
             "symbol": "LUME",
-            "address": "418e1f20851a144981e05d9f48245c6b6cb7085204",
+            "address": "0x8e1f20851a144981e05d9f48245c6b6cb7085204",
             "decimals": 8,
             "chainId": 11111,
             "logoURI": "https://coin.top/production/upload/logo/TNvgF3Sj2oHKdRGypewWG77NskUvNPoJdj.png"
