@@ -14,13 +14,22 @@
         "activ",
         "activdefi"
     ],
-    "tokens": [{
+    "tokens": [
+        {
             "name": "ActivEightCoin",
             "symbol": "ACTIV",
             "address": "0xd9a2669faa82b1dd7f9e3f9b8ca7b4200cc33d42",
             "decimals": 8,
             "chainId": 11111,
             "logoURI": "https://coin.top/production/upload/logo/TVoxBVmFuBM7dsRnfi1V8v1iupv4uyPifN.jpeg"
+        },
+        {
+            "name": "DAPPCENTS",
+            "symbol": "DPC",
+            "address": "0x348b22c4ccbdd0ee960f39e19faa3efb4390295d",
+            "decimals": 6,
+            "chainId": 11111,
+            "logoURI": "https://coin.top/production/upload/logo/TEm2pMqgjnbvgNQi1gFYBZH9BfMu123mbW.jpeg"
         },
         {
             "name": "EFT",
